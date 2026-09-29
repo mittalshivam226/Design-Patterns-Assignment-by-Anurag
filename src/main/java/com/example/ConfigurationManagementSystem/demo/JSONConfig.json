@@ -1,0 +1,5 @@
+{
+  "server.port": "8000",
+  "database.url": "localhost",
+  "database.name": "test"
+}

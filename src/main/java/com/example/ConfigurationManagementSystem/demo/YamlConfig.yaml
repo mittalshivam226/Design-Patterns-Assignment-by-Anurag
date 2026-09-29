@@ -1,0 +1,2 @@
+server.port:  "8081"
+datasource.url: "jdbc:postgresql://localhost:5432/student_lms"
